@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HelloWorldProgram</name>
+    </assembly>
+    <members>
+        <member name="M:HelloWorldProgram.Program.Main(System.String[])">
+            <summary>
+            This is the sample main function
+            </summary>
+            <param name="args">Array of string elements for command line</param>
+            <returns>No Value</returns>
+        </member>
+    </members>
+</doc>
